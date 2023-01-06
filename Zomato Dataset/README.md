@@ -50,6 +50,7 @@ Data cleaning is the process of identifying and correcting errors, inconsistenci
 - the fifth and last step is to rename some of the feature names to make them more readable and understandable e.g we rename the **'name'** feature to **'restuarant_name'**
 ## Data Visualisation
 ![alt text](https://github.com/TebogoMngoma/Data-Analytics-Science-Projects/blob/8dfb3c1591eb0dc4557954ec7b930d7eaea2c797/Zomato%20Dataset/Screenshots/Screenshot%20(25).png)
+### 70% of Restuarants Have online bookings while 30% do not offer any online booking
 ![alt text](https://github.com/TebogoMngoma/Data-Analytics-Science-Projects/blob/8dfb3c1591eb0dc4557954ec7b930d7eaea2c797/Zomato%20Dataset/Screenshots/Screenshot%20(26).png)
 ![alt text](https://github.com/TebogoMngoma/Data-Analytics-Science-Projects/blob/8dfb3c1591eb0dc4557954ec7b930d7eaea2c797/Zomato%20Dataset/Screenshots/Screenshot%20(27).png)
 ![alt text](https://github.com/TebogoMngoma/Data-Analytics-Science-Projects/blob/8dfb3c1591eb0dc4557954ec7b930d7eaea2c797/Zomato%20Dataset/Screenshots/Screenshot%20(28).png)
