@@ -42,9 +42,12 @@ Exploratory data analysis (EDA) is a method of analyzing and summarizing a datas
 our dataset is mostly straighfoward and hence why our EDA is not that long 
 ## Data Cleaning
 Data cleaning is the process of identifying and correcting errors, inconsistencies, and missing values in a dataset. It is an important step in the data analysis process because dirty or incomplete data can lead to incorrect or misleading results. Data cleaning typically involves a combination of automated procedures and manual inspection and correction of the data.
-- First step is to remove redundant features as they have little to no impact in our dataset
-- The removed features are namely [phone, url,reviews_list,menu_item,address,dish_liked,cuisines]
+- First step is to remove **redundant** features as they have little to no impact in our dataset
+- The removed features are namely **[phone, url,reviews_list,menu_item,address,dish_liked,cuisines]**
 - Second step is two drop all null(missing) values in our data as null values Null values can affect the accuracy of data analysis: If a null value is included in a calculation, it can produce an incorrect result. For example, if you are trying to calculate the mean of a set of values and one of the values is null, the result of the calculation will be affected.
+- the third step is to transform the **approx_cost** feature from catagorical to numerical as it a string and will give us issues when plot visual later and so it has to be numerical to perform calculations.
+- the fourth step is to also transform the rate feature from catagorical to numerical with the same explanation as the third step
+- the fifth and last step is to rename some of the feature names to make them more readable and understandable e.g we rename the **'name'** feature to **'restuarant_name'**  
 
 
 
