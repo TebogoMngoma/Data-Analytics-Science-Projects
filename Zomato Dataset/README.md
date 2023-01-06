@@ -41,8 +41,8 @@ Exploratory data analysis (EDA) is a method of analyzing and summarizing a datas
 our dataset is mostly straighfoward and hence why our EDA is not that long 
 ## Data Cleaning
 Data cleaning is the process of identifying and correcting errors, inconsistencies, and missing values in a dataset. It is an important step in the data analysis process because dirty or incomplete data can lead to incorrect or misleading results. Data cleaning typically involves a combination of automated procedures and manual inspection and correction of the data. Some common tasks involved in data cleaning include checking for and correcting errors in data values, identifying and handling missing values, and standardizing data formats. Data cleaning can be a time-consuming process, but it is important to ensure that the data is as accurate and complete as possible before conducting further analyses.
-
-
+- First step is to remove redundant features as they have little to no impact in our dataset
+- The removed features are namely ['phone', 'url','reviews_list','menu_item','address','dish_liked','cuisines']
 
 
 
