@@ -27,3 +27,12 @@ This dataset is a collection of restaurants that are registered on Zomato in Ben
 - No. of restaurants in a Location
 - Restaurant type
 - Most famous restaurant chains in Bengaluru
+
+### Packages and Libraries used for the project
+- Matplotlib
+- Pandas
+-  Seaborn
+-  Numpy 
+
+## Exploratory Data Analysis
+Exploratory data analysis (EDA) is a method of analyzing and summarizing a dataset in order to understand its main characteristics and relationships between variables. EDA is typically the first step in the data analysis process, and it involves visualizing and summarizing data in various ways to get a feel for the data and uncover patterns and trends. EDA is an iterative process, and it is common to go back and forth between visualizing and summarizing data, and testing hypotheses and making predictions based on the data. EDA is important because it helps to identify potential issues with the data, such as missing values or outliers, and it helps to guide the next steps in the data analysis process.
