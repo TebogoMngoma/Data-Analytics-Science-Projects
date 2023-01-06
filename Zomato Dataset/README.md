@@ -56,11 +56,17 @@ Data cleaning is the process of identifying and correcting errors, inconsistenci
 ![alt text](https://github.com/TebogoMngoma/Data-Analytics-Science-Projects/blob/8dfb3c1591eb0dc4557954ec7b930d7eaea2c797/Zomato%20Dataset/Screenshots/Screenshot%20(27).png)
 ### These are the different type of Restuarants which examples such as *Quite bites* , *Cafe* , *Bars* e.t.c with *Casual Dining* being the most popular 
 ![alt text](https://github.com/TebogoMngoma/Data-Analytics-Science-Projects/blob/8dfb3c1591eb0dc4557954ec7b930d7eaea2c797/Zomato%20Dataset/Screenshots/Screenshot%20(28).png)
+### The Bar plot above shows the average rating of each location with the top 3 being *Lavelle Road* , *Koramangala 5th block* and *Koramangala 3rd block* . from our observation a majority of the the locations have an average of above 70% rating which means you likely wont be too much disappointed with any location you consider dining or booking at 
 ![alt text](https://github.com/TebogoMngoma/Data-Analytics-Science-Projects/blob/8dfb3c1591eb0dc4557954ec7b930d7eaea2c797/Zomato%20Dataset/Screenshots/Screenshot%20(29).png)
+### Here we can see the average rating of each different restuarant type with *Pub and Cafe* being the highest and with the 2 second best being *Pub , Microbrewery* and *Casual Dining, Microbrewery* . a lot of the restuarants offer multi-catagorical services e.g a single restuarant can serve bakery, cafe and also casual dining
 ![alt text](https://github.com/TebogoMngoma/Data-Analytics-Science-Projects/blob/8dfb3c1591eb0dc4557954ec7b930d7eaea2c797/Zomato%20Dataset/Screenshots/Screenshot%20(30).png)
+### The Bar plot shows the average cost of dining\booking for two people in each restuarant which the 2 most expensive being *Banjara Melting Pot* and *Mainland China* and the 2 least expensive are *Sreejaj Lassi Bar* and *Natural Ice Cream*
 ![alt text](https://github.com/TebogoMngoma/Data-Analytics-Science-Projects/blob/8dfb3c1591eb0dc4557954ec7b930d7eaea2c797/Zomato%20Dataset/Screenshots/Screenshot%20(31).png)
+### Here we can see the number of Restuarant in each Location with *koramalanga 5th block* being the most populated while *Shivajinagar* being the least populated
 ![alt text](https://github.com/TebogoMngoma/Data-Analytics-Science-Projects/blob/8dfb3c1591eb0dc4557954ec7b930d7eaea2c797/Zomato%20Dataset/Screenshots/Screenshot%20(32).png)
+### A majority of restuarant offer online *delivery* services and few being *Pubs and Bars*
 ![alt text](https://github.com/TebogoMngoma/Data-Analytics-Science-Projects/blob/8dfb3c1591eb0dc4557954ec7b930d7eaea2c797/Zomato%20Dataset/Screenshots/Screenshot%20(34).png)
+### All *Service* types have a rating of more than 76% which indicate that either service you request is more than satisfactory
 
 
 
