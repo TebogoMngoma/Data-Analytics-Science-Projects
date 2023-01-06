@@ -48,7 +48,7 @@ Data cleaning is the process of identifying and correcting errors, inconsistenci
 - the third step is to transform the **approx_cost** feature from catagorical to numerical as it a string and will give us issues when plot visual later and so it has to be numerical to perform calculations.
 - the fourth step is to also transform the rate feature from catagorical to numerical with the same explanation as the third step
 - the fifth and last step is to rename some of the feature names to make them more readable and understandable e.g we rename the **'name'** feature to **'restuarant_name'**
-![alt text](Zomato Dataset/Screenshots/Screenshot (25).png)
+![alt text](https://github.com/TebogoMngoma/Data-Analytics-Science-Projects/blob/ce2863e0bc408bad2cf852f2f1083c0b4e7a9750/Zomato%20Dataset/Screenshots/Screenshot%20(25).png)
 
 
 
