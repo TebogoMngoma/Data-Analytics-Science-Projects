@@ -37,12 +37,16 @@ This dataset is a collection of restaurants that are registered on Zomato in Ben
 ## Exploratory Data Analysis
 Exploratory data analysis (EDA) is a method of analyzing and summarizing a dataset in order to understand its main characteristics and relationships between variables. EDA is typically the first step in the data analysis process, and it involves visualizing and summarizing data in various ways to get a feel for the data and uncover patterns and trends. EDA is an iterative process, and it is common to go back and forth between visualizing and summarizing data, and testing hypotheses and making predictions based on the data. EDA is important because it helps to identify potential issues with the data, such as missing values or outliers, and it helps to guide the next steps in the data analysis process.
 - Using the **shape** command , we can observe that our dataset has 51717 rows and 17 columns
+- the **isnull()** commands shows our dataset has 37700 missing(null) values
 - the **info()** command shows us that the data consists of a single numerical column(feature) **Votes** while the remaining 16 are catagorical.(later in data cleaning we will transform some of the features to numerical)
 our dataset is mostly straighfoward and hence why our EDA is not that long 
 ## Data Cleaning
 Data cleaning is the process of identifying and correcting errors, inconsistencies, and missing values in a dataset. It is an important step in the data analysis process because dirty or incomplete data can lead to incorrect or misleading results. Data cleaning typically involves a combination of automated procedures and manual inspection and correction of the data. Some common tasks involved in data cleaning include checking for and correcting errors in data values, identifying and handling missing values, and standardizing data formats. Data cleaning can be a time-consuming process, but it is important to ensure that the data is as accurate and complete as possible before conducting further analyses.
 - First step is to remove redundant features as they have little to no impact in our dataset
-- The removed features are namely ['phone', 'url','reviews_list','menu_item','address','dish_liked','cuisines']
+- The removed features are namely [phone, url,reviews_list,menu_item,address,dish_liked,cuisines]
+- Second step is two drop all null(missing) values in our data as null values Null values can affect the accuracy of data analysis: If a null value is included in a calculation, it can produce an incorrect result. For example, if you are trying to calculate the mean of a set of values and one of the values is null, the result of the calculation will be affected.
+
+
 
 
 
