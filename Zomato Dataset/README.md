@@ -47,7 +47,7 @@ Data cleaning is the process of identifying and correcting errors, inconsistenci
 - Second step is two drop all null(missing) values in our data as null values Null values can affect the accuracy of data analysis: If a null value is included in a calculation, it can produce an incorrect result. For example, if you are trying to calculate the mean of a set of values and one of the values is null, the result of the calculation will be affected.
 - the third step is to transform the **approx_cost** feature from catagorical to numerical as it a string and will give us issues when plot visual later and so it has to be numerical to perform calculations.
 - the fourth step is to also transform the rate feature from catagorical to numerical with the same explanation as the third step
-- the fifth and last step is to rename some of the feature names to make them more readable and understandable e.g we rename the **'name'** feature to **'restuarant_name'**  
+- the fifth and last step is to rename some of the feature names to make them more readable and understandable e.g we rename the **'name'** feature to **'restuarant_name'**
 
 
 
