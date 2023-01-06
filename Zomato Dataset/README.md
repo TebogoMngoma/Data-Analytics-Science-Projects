@@ -52,7 +52,9 @@ Data cleaning is the process of identifying and correcting errors, inconsistenci
 ![alt text](https://github.com/TebogoMngoma/Data-Analytics-Science-Projects/blob/8dfb3c1591eb0dc4557954ec7b930d7eaea2c797/Zomato%20Dataset/Screenshots/Screenshot%20(25).png)
 ### 70% of Restuarants Have online bookings while 30% do not offer any online booking
 ![alt text](https://github.com/TebogoMngoma/Data-Analytics-Science-Projects/blob/8dfb3c1591eb0dc4557954ec7b930d7eaea2c797/Zomato%20Dataset/Screenshots/Screenshot%20(26).png)
+### 26% of Restuarants allow to book a table while 74% do not allow to book a table
 ![alt text](https://github.com/TebogoMngoma/Data-Analytics-Science-Projects/blob/8dfb3c1591eb0dc4557954ec7b930d7eaea2c797/Zomato%20Dataset/Screenshots/Screenshot%20(27).png)
+### These are the different type of Restuarants which examples such as *Quite bites* , *Cafe* , *Bars* e.t.c with *Casual Dining* being the most popular 
 ![alt text](https://github.com/TebogoMngoma/Data-Analytics-Science-Projects/blob/8dfb3c1591eb0dc4557954ec7b930d7eaea2c797/Zomato%20Dataset/Screenshots/Screenshot%20(28).png)
 ![alt text](https://github.com/TebogoMngoma/Data-Analytics-Science-Projects/blob/8dfb3c1591eb0dc4557954ec7b930d7eaea2c797/Zomato%20Dataset/Screenshots/Screenshot%20(29).png)
 ![alt text](https://github.com/TebogoMngoma/Data-Analytics-Science-Projects/blob/8dfb3c1591eb0dc4557954ec7b930d7eaea2c797/Zomato%20Dataset/Screenshots/Screenshot%20(30).png)
